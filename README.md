@@ -1,7 +1,7 @@
 yorg
 =========
 
-**Yorg** is an *open source* racing game developed by Ya2 using [Panda3D](http://www.panda3d.org) for *Windows*, *OSX* and *Linux*. More information can be found on [this page](http://www.ya2.it/pages/yorg.html).
+**Yorg** is an *open source* racing game developed by Ya2 using [Panda3D](http://www.panda3d.org) for *Windows*, *OSX* and *Linux*. More information can be found on [this page](https://ya2.itch.io/yorg).
 
 It requires *Python 3.x*. It should be cloned recursively since [yyagl submodule](https://github.com/cflavio/yyagl) and [yracing submodule](https://github.com/cflavio/yracing) are used.
 
